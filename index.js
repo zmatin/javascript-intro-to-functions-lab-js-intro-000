@@ -28,7 +28,7 @@ function sayHiToGrandma(string) {
   
 }
 
-function sayHiToGrandma(string) {
+function sayHiToGrandma(STRING) {
   return "I love you, too."
   
 }
